@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text2: "Tớ là Miniwood nè, tớ có điều muốn nói với cậu, nhớ trả lời thật lòng nhé",
+  text3: "Cậu muốn đi chơi với tớ chứ?",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là chắc chắn đi đâu cũng đồng ý rồi đó nhé :v",
+  text5: "Không, cậu mơ à???",
+  text6: "Ui đi chơi chứ, cậu cứ rủ là đi <3",
+  text7: "Nói cho tớ lý do mà cậu đồng ý đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text9: "Vì tớ thích đi chơi với cậu lắm",
+  text10: "Tớ biết mà ^^ Tớ cũng vậy",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Hẹn gặp cậu ở Year End  lúc 12h00 ngày 26.1.2022 nhé, tớ sẽ mang thật nhiều quà cho cậu",
   text12: "Okii lunn <3",
 };
 
